@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  Class: MyString
+  Type: MyString
+  Current_DKP: 
+  30_Day_%: 1.5
+  lifetime_%: 1.5
+
+two:
+  Name: MyString
+  Class: MyString
+  Type: MyString
+  Current_DKP: 
+  30_Day_%: 1.5
+  lifetime_%: 1.5
